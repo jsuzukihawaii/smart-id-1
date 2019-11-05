@@ -1,1 +1,3 @@
-readme
+# SmartID
+GitHubで開発します。
+
